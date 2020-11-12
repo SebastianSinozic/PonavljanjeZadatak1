@@ -1,0 +1,7 @@
+C:\Users\Učenik11\source\repos\sinozicSebastianPonavljanje\sinozicSebastianPonavljanje\bin\Debug\sinozicSebastianPonavljanje.exe.config
+C:\Users\Učenik11\source\repos\sinozicSebastianPonavljanje\sinozicSebastianPonavljanje\bin\Debug\sinozicSebastianPonavljanje.exe
+C:\Users\Učenik11\source\repos\sinozicSebastianPonavljanje\sinozicSebastianPonavljanje\bin\Debug\sinozicSebastianPonavljanje.pdb
+C:\Users\Učenik11\source\repos\sinozicSebastianPonavljanje\sinozicSebastianPonavljanje\obj\Debug\sinozicSebastianPonavljanje.csprojAssemblyReference.cache
+C:\Users\Učenik11\source\repos\sinozicSebastianPonavljanje\sinozicSebastianPonavljanje\obj\Debug\sinozicSebastianPonavljanje.csproj.CoreCompileInputs.cache
+C:\Users\Učenik11\source\repos\sinozicSebastianPonavljanje\sinozicSebastianPonavljanje\obj\Debug\sinozicSebastianPonavljanje.exe
+C:\Users\Učenik11\source\repos\sinozicSebastianPonavljanje\sinozicSebastianPonavljanje\obj\Debug\sinozicSebastianPonavljanje.pdb
